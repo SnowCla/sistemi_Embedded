@@ -2,12 +2,12 @@
 Contiene i file del progetto di Sistemi Embedded
 
 Componenti usati:
-  Board ELEGOO Uno R3
-  Schermo LCD LCD1602
-  Modulo di alimentazione
-  Levetta analogica (usata come bottone)
-  Sensore a ultrasuoni HC-SR04
-  Sensore di carico HX711
-  Sensore di temperatura DS18B20
-  Pompa d'acqua 5V
-  Led rosso
+  Board ELEGOO Uno R3\n
+  Schermo LCD LCD1602\n
+  Modulo di alimentazione\n
+  Levetta analogica (usata come bottone)\n
+  Sensore a ultrasuoni HC-SR04\n
+  Sensore di carico HX711\n
+  Sensore di temperatura DS18B20\n
+  Pompa d'acqua 5V\n
+  Led rosso\n
